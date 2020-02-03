@@ -1,1 +1,1 @@
-# rsschool-cv
+https://gruskry.github.io/rsschool-cv/cv
